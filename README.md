@@ -2,7 +2,7 @@
 I'm Matheus and I'm studying to become a software developer.
 Currently working on my first version of _Mot Maitrise_ a program for increase of vocabulary and language expertise that get sentences through the internet and turn them into flashcards with spaced repetition to memorize and masterize the structure and the pronunciation since I'm choosing and audio enginee to help with the pronunciation, very useful for language learning pourpose.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Folclore-Motta)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Mota1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Folclore-Motta/Folclore-Motta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
