@@ -5,7 +5,7 @@ I'm a open source software enthusiastic I only use Linux as a desktop and I try 
 Skills: C/C++ / Python / JS / HTML / CSS / 
 
 - 🔭 I’m currently working on organize this github 
-- 🌱 I’m currently learning.Currently working on my first version of Mot Maitrise, a program for increasing vocabulary and language expertise that gets sentences through the internet and turns them into flashcards with spaced repetition to memorize and masterize the structure and the pronunciation, since I'm choosing an audio engine to help with the pronunciation, very useful for language learning pourpose. 
+- 🌱 I’m Currently working on my first version of Mot Maitrise, a program for increasing vocabulary and language expertise that gets sentences through the internet and turns them into flashcards with spaced repetition to memorize and masterize the structure and the pronunciation, since I'm choosing an audio engine to help with the pronunciation, very useful for language learning pourpose. 
 - ⚡ Fun fact: I play chess sometimes, free fell to invite me to play
 
 https://lichess.org/@/Folclore
