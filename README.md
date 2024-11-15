@@ -1,4 +1,4 @@
-## Hi there, My name is Follcore 
+
 ### I'm a Software Enginer 
 
 I'm a open source enthusiastic. I only use Linux as a desktop and I try automatize everything with IOT projects using ESP and Arduino
