@@ -11,7 +11,7 @@ I'm a open source enthusiastic. I only use Linux as a desktop and I try automati
 - Working on my first version of [Mot Maitrise](https://github.com/Matheus-Mota1/Moitrise), a program for increasing vocabulary and language expertise a **scrapper** in python that gets sentences through the internet and use text-to-speech to generate a audio of the sentences being pronounce as most accurate as possible. Probably going to be an extension for Anki.
 - I'm improving my [RC Plane](https://github.com/Matheus-Mota1/Airplane-RC-Control) and also it's code. Planning to do a Youtube video teaching everything I've learn through the process.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Matheus-Mota1)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FolcloreX)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Mota1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FolcloreX)](https://github.com/anuraghazra/github-readme-stats)
 
